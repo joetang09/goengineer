@@ -4,14 +4,15 @@
 This is an app engineer simply.
 
 Use components by implement engineer/Component.
+
 Register a server by implement engineer/Server.
 
-Whatever what config is using by your component, the engineer will correct parse it. 
+Whatever what configuration is using by your component, the engineer will parser it correctly. 
 And the raw package has not injury.
 
-But there is some of flaws clearly, wuwuwuwu...
+But there are some of flaws clearly, wuwuwuwu...
 
-But, It is useful to you sometimes, Because it is in running.
+But, It is useful to you sometimes, because it is in running.
 
 Packing your component just like this : 
 
